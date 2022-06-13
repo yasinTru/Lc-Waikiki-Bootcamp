@@ -2,7 +2,7 @@
 
 ### Used Technologies
 
-    - Selenium
-    - Cucumber
-    - TestNg
-    - Java
+    -Selenium
+    -Cucumber
+    -TestNg
+    -Java
