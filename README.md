@@ -4,6 +4,7 @@
 
 - Selenium
 - Cucumber
+- Intellij Idea
 - TestNg
 - Java
  
